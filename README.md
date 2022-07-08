@@ -5,3 +5,5 @@
 This repo is for educational purposes only!
 
 The purpose of this repo is to see how this old dead client works.
+
+(forking this for personal use and incase the original repo goes down)
